@@ -1,0 +1,21 @@
+.DescriptionBanner {
+    margin-top: 15rem;
+}
+
+.button__banner {
+    border: none;
+    margin-left: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: Transparent;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+
+.DescriptionBanner {
+    max-width: 25rem;
+    font-weight: 40px;
+    margin-left: 10px;
+}

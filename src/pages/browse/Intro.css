@@ -1,0 +1,20 @@
+.video_demo {
+    height: 600px;
+    padding-top: 65px;
+}
+
+.InfoIntro{
+    color: white;
+    position: absolute;
+    padding-left: 20px;
+    margin-top: -60px;
+    top: 605px;
+}
+
+.Intro_heading{
+    margin-top: 0px;
+}
+
+.Intro_paragraph{
+    margin-bottom: 0px;
+}

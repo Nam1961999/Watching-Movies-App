@@ -1,0 +1,46 @@
+ #seachIcon__Home {
+   color: white;
+   align-items: center;
+   position: relative;
+   margin-top: 21px;
+   margin-left: 1200px;
+
+ }
+
+ .movieApp {
+   color: red;
+   font-size: 32px;
+   text-decoration: none;
+   margin-right: 1000px;
+   font-size: 2em;
+ }
+
+ .Navbar {
+   display: flex;
+   position: fixed;
+   z-index: 2;
+   width: 100%;
+ }
+
+ #searchIcon {
+   size: 2em;
+   color: white
+ }
+
+ .search_icon {
+   font-size: 26px;
+ }
+
+ #searchButton {
+   border: none;
+   padding: 5px;
+   background-color: Transparent;
+ }
+
+ .body__Film {
+   padding-top: 100px;
+ }
+
+ #isDarkTheme {
+   background-color: black;
+ }

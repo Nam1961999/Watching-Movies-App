@@ -1,0 +1,32 @@
+.seachRow_item{
+    justify-content: center;
+    margin-top: 30px;
+}
+.searchFilmItem{
+    width: 302px;
+    transition: all .3s ease-in;
+    transform: scale(1);
+}
+
+.searchFilmItem:hover{
+    cursor: pointer;
+    transition: all .3s ease-in;
+    transform: scale(1.2);
+}
+
+.searchImg_banner{
+    width: 100%;
+}
+
+.searchDescriptionFilm{
+    color: #7aa7ea;
+    font-weight: 400;
+}
+
+/* css */
+html {
+    scroll-behavior: smooth;
+}
+.ResultContainer{
+    margin-top: 150px;
+}
